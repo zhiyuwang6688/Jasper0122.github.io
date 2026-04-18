@@ -3,8 +3,7 @@ secondary_name: "Zhiyu Wang"
 navbar_name: "Homepage"
 
 positions:
-- logo: /assets/images/badges/Texas_A&M_University_seal.svg  # Logo is optional
-  name: Ph.D. in Geographic Information Systems
+- name: Ph.D. in Macquarie University
 # - name: Position 2 without logo
 
 
